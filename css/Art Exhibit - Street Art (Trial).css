@@ -529,6 +529,12 @@ section{
 
 }
 
+@media (max-width:1336px){
+
+  .header{
+    padding: 0.5rem 7%;
+  }
+}
 
 
 

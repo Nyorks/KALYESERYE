@@ -536,6 +536,11 @@ section{
   }
 }
 
+@media (max-height:768px){
 
+  .header{
+    padding: 0rem 7%;
+  }
+}
 
 
